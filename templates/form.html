@@ -18,6 +18,7 @@
         <input type="text" name="name" placeholder="Nom" required>
         <input type="email" name="email" placeholder="Email" required>
         <textarea name="message" placeholder="Votre message" rows="5" required></textarea>
+        <input type="hidden" name="csrf_token" value="{{ csrf_token }}">
         <button type="submit">Envoyer</button>
     </form>
 </body>
