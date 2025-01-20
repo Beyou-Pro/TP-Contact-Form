@@ -28,3 +28,6 @@ instance/
 # MacOS and system files
 .DS_Store
 Thumbs.db
+
+contact_form.db
+.env
