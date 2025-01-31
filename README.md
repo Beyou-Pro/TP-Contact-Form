@@ -2,7 +2,7 @@
 
 ## Usage:
 
->   git clone https://github.com/your-username/TP-Contact-Form.git \
+>   git clone https://github.com/Beyou-Pro/TP-Contact-Form.git \
 cd TP-Contact-Form \
 pip install flask cryptography Flask-Limiter \
 python app.py
